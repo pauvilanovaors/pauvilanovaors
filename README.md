@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://portfolio-nex-play.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=4F8CC9" alt="Portfolio"></a>&nbsp;&nbsp;
+<a href="https://pauvilanovaors.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=4F8CC9" alt="Portfolio"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/pau-vilanova-ors/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="https://www.nexplay.es/"><img src="https://img.shields.io/badge/NexPlay-0d1117?style=for-the-badge&logo=googleplay&logoColor=4F8CC9" alt="NexPlay"></a>
 
@@ -58,7 +58,7 @@ I write firmware that sits right at the hardware boundary, and I use AI agents t
 
 | Project | What it is |
 | --- | --- |
-| [portfolio](https://github.com/pauvilanovaors/portfolio) | My portfolio site, built from scratch in Vue 3 + TypeScript ([live](https://portfolio-nex-play.vercel.app/)) |
+| [portfolio](https://github.com/pauvilanovaors/portfolio) | My portfolio site, built from scratch in Vue 3 + TypeScript ([live](https://pauvilanovaors.vercel.app/)) |
 | [Software_BaseRobot](https://github.com/pauvilanovaors/Software_BaseRobot) | Autonomous transporter robot: STM32F401 + FreeRTOS, custom KiCad PCB, hand-ported VL53L0X time-of-flight driver |
 | [diegetic-writer](https://github.com/pauvilanovaors/diegetic-writer) | An agent skill that rewrites everyday messages as in-universe writing |
 | [NexPlay](https://www.nexplay.es/) | iOS/Android app and website I designed end to end: React + TypeScript on a Supabase (PostgreSQL) back end |
@@ -67,6 +67,6 @@ I write firmware that sits right at the hardware boundary, and I use AI agents t
 
 <div align="center">
 
-<sub>Barcelona · <a href="https://portfolio-nex-play.vercel.app/">portfolio-nex-play.vercel.app</a></sub>
+<sub>Barcelona · <a href="https://pauvilanovaors.vercel.app/">pauvilanovaors.vercel.app</a></sub>
 
 </div>
